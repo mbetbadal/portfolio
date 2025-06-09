@@ -5,6 +5,13 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ---
 
+## 🛠 Tools & Skills  
+- **Authoring:** Markdown, DITA, Oxygen XML, GitHub
+- **Platforms:** Cloud Pak for Data, Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai  
+- **Specialties:** Accessibility, user onboarding
+
+---
+
 ## 📄 Selected Writing Samples
 
 ### 1. IBM Cloud Pak for Data 
@@ -51,7 +58,3 @@ A 4-week onboarding curriculum used to train 16+ new writers in 2023.
 
 ---
 
-## 🛠 Tools & Skills  
-- **Authoring:** Markdown, DITA, Oxygen XML, GitHub
-- **Platforms:** Cloud Pak for Data, Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai  
-- **Specialties:** Accessibility, user onboarding
