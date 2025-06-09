@@ -24,7 +24,44 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 - Improved legacy docs for accessibility and usability
 - Met a mix of quarterly and monthly releases
 
+Initial release of Data Replicatio on Cloud Pak for Data 4.6.0
+
+<img width="635" alt="DR 4 6 0 Release" src="https://github.com/user-attachments/assets/4f8149ab-6448-456e-9dfe-0dbd2a61488b" />
+
+
+Cloud Pak for Data 4.7.0 release of Data Replication
+
 <img width="655" alt="CPD Data Replication 4 7 0" src="https://github.com/user-attachments/assets/39946650-f7ff-4250-8554-904b46c9d29a" />
+
+
+Cloud Pak for Data 4.7.0 release of Executive Engine on Apache Hadoop
+
+<img width="661" alt="Hadoop 4 7 0" src="https://github.com/user-attachments/assets/a01d0b2f-c284-4f8b-82f8-a0161b674fcf" />
+
+
+Bug fixes
+
+<img width="653" alt="Bug fixes" src="https://github.com/user-attachments/assets/d9ad6e88-e91f-4074-95ce-78850d7fe925" />
+
+
+Known issues for various services and features on Cloud Pak for Data 
+
+<img width="620" alt="Known issues for Hadoop" src="https://github.com/user-attachments/assets/165845b6-d270-4e2f-a0a0-804882476ac9" />
+
+<img width="623" alt="Known issus for jobs" src="https://github.com/user-attachments/assets/0f50cca4-ad2b-4f7b-8b6c-0d542d6b8fde" />
+
+<img width="621" alt="Known issues for projects" src="https://github.com/user-attachments/assets/c7f18b62-d966-4bfe-9ed8-c041d81d5f2f" />
+
+
+Known issues for various services and features on Cloud Pak for Data 
+
+<img width="660" alt="Limitations projects" src="https://github.com/user-attachments/assets/58930f51-9237-4596-b563-17b2b0ad2e44" />
+
+<img width="608" alt="Limitations for jobs" src="https://github.com/user-attachments/assets/e9e74059-a5fc-4d57-9e55-4deb49733975" />
+
+<img width="653" alt="Limit visualizations" src="https://github.com/user-attachments/assets/b4d57f53-8444-4370-b205-965a43736b4c" />
+
+
 
 
 ---
@@ -45,19 +82,48 @@ Reorganized and rewrote Git integration documentation to improve clarity, usabil
 📎 [Screenshots with Annotations](#)
 
 **Highlights:**  
-- Supported assets and services that need to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus on clarifying why the user would want to create: an empty project,  default or deprecated git project. 
+- Supported assets and services that need to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus on clarifying why the user would want to create: an empty project,  default or deprecated git project.
+
+
+Restructure info architecture to split information into two topics 
+
+<img width="249" alt="Git table of contents" src="https://github.com/user-attachments/assets/72dda631-6e87-456c-a253-cb39e37ae7ec" />
+
+
+Introduce concepts in parent topic to help users distinguish which information they need
+
+<img width="729" alt="Git main page" src="https://github.com/user-attachments/assets/e7221c11-4ed1-4a1e-88c5-0e16a37c81f7" />
+
+
+Reorganize and restructure table based on feedback from customer and distinguished engineer
+
+<img width="383" alt="Git tables" src="https://github.com/user-attachments/assets/fa667407-4f08-47d8-964a-b38b7cffa30b" />
+
+
+Create troubleshooting topic to replace info found in usage topic (linked to from usage topic)
+
+<img width="804" alt="Git troublshooting topic" src="https://github.com/user-attachments/assets/344deea1-d950-403a-a1f2-c1ca3c4e8980" />
+
 
 ---
 
-### 4. Internal Onboarding Program – IBM Data and AI Content Design  
-**Type:** Program Documentation and Education | **Tools:**  
-A 4-week onboarding curriculum used to train 16+ new writers in 2023.  
-📎 [View Summary PDF](#)
+### 4. New feature - Cloud Pak for Data as a Service/watsonx.ai
+
+<img width="621" alt="Marking Project as Sensitive" src="https://github.com/user-attachments/assets/5e96e078-12a7-446c-93c8-9a6534650508" />
+
+---
+
+### 5. Rewrite steps for clarity - Creating jobs in a project
 
 **Highlights:**  
-- Designed and documented full onboarding experience  
-- Paired new hires with mentors  
-- Earned 100% NPS score from first cohort
+- Scheduled and hosted a call with STSM and 2 design focals to learn about the Scheduling jobs UI and address concerns over a complex feature and the correlating lack of clarity in the documentation.
+- As a result, I updated the “Creating and managing jobs” topic with clear language, accurate steps, and an additional example to help our users understand a complex feature.
 
----
+
+Before
+<img width="810" alt="jobs before" src="https://github.com/user-attachments/assets/379518c6-d1f1-4c31-baa9-7f192347fb0f" />
+
+After
+<img width="608" alt="jobs after" src="https://github.com/user-attachments/assets/9ea5b59b-502e-46c4-a1ec-0b56ad8887ea" />
+
 
