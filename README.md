@@ -14,8 +14,10 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ## 📄 Selected Writing Samples
 
-- [Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)](#onboard)
-- 
+- [Onboard new service Data Replication](#onboard)
+- [Improvements to Git integration documentation](#git)
+- [Examples of new features](#new-features)
+- [Rewrite steps for clarity](#jobs)
 
 ### Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)<a name="onboard"></a>
 
@@ -77,7 +79,7 @@ Installation, release notes, known issues, and troubleshooting.
 
 ---
 
-### Improvements to Git integration documentation  
+### Improvements to Git integration documentation<a name="git"></a>  
 Reorganized and rewrote Git integration documentation to improve clarity, usability, and  comprehensiveness of Default and Deprecated Git integration features. Supported assets and services that need to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus on clarifying why the user would want to create: an empty project,  default or deprecated git project.
 
 
@@ -103,7 +105,7 @@ Reorganized and rewrote Git integration documentation to improve clarity, usabil
 
 ---
 
-### Examples of new features on Cloud Pak for Data as a Service/watsonx.ai
+### Examples of new features on Cloud Pak for Data as a Service/watsonx.ai<a name="new-features"></a>
 
 **Marking projects as sensitive topic**
 
@@ -120,7 +122,7 @@ Cloud Pak for Data as a Service projects UI was redesigned to simplify the user 
 
 ---
 
-### Rewrite steps for clarity and add example for "Creating jobs in a project"
+### Rewrite steps for clarity and add example for "Creating jobs in a project"<a name="jobs"></a>
 
 Scheduled and hosted a call with STSM and 2 design focals to learn about the Scheduling jobs UI and address concerns over a complex feature and the correlating lack of clarity in the documentation. As a result, I updated the “Creating and managing jobs” topic with clear language, accurate steps, and an additional example to help our users understand a complex feature.
 
