@@ -14,7 +14,10 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ## 📄 Selected Writing Samples
 
-### Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)
+- [Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)](#onboard)
+- 
+
+### Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)<a name="onboard"></a>
 
 Review the entire doc set of [Data Replication](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.6.x?topic=data-replicating){:target="_blank"}.
 
