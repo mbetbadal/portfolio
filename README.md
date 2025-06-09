@@ -14,12 +14,13 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ## 📄 Selected Writing Samples
 
-### Onboarded new service to Cloud Pak for Data as a Service (Data Replication)
+### Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)
 
 Review the entire doc set of [Data Replication](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.6.x?topic=data-replicating){: new_window}.
 
 **Highlights:**  
 - Established info archictecture, wrote all new topics
+- Onboarded new service to all necessary topics: install, known issues, troubleshooting, admin, etc.
 - Aligned with developers, PM, and product design
 - Focused on reducing learning curve for new users
 
