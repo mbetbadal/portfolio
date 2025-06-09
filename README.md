@@ -54,7 +54,7 @@ Installation, release notes, known issues, and troubleshooting.
 <img width="653" alt="Bug fixes" src="https://github.com/user-attachments/assets/d9ad6e88-e91f-4074-95ce-78850d7fe925" />
 
 
-**Known issues for various services and features on Cloud Pak for Data **
+**Known issues for various services and features on Cloud Pak for Data**
 
 <img width="620" alt="Known issues for Hadoop" src="https://github.com/user-attachments/assets/165845b6-d270-4e2f-a0a0-804882476ac9" />
 
