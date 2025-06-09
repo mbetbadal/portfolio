@@ -73,7 +73,7 @@ Installation, release notes, known issues, and troubleshooting.
 
 ---
 
-### 3. Improvements to Git integration documentation  
+### Improvements to Git integration documentation  
 Reorganized and rewrote Git integration documentation to improve clarity, usability, and  comprehensiveness of Default and Deprecated Git integration features. Supported assets and services that need to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus on clarifying why the user would want to create: an empty project,  default or deprecated git project.
 
 
@@ -99,7 +99,7 @@ Reorganized and rewrote Git integration documentation to improve clarity, usabil
 
 ---
 
-### 4. Examples of new features on Cloud Pak for Data as a Service/watsonx.ai
+### Examples of new features on Cloud Pak for Data as a Service/watsonx.ai
 
 **Marking projects as sensitive topic**
 
@@ -116,7 +116,7 @@ Cloud Pak for Data as a Service projects UI was redesigned to simplify the user 
 
 ---
 
-### 5. Rewrite steps for clarity and add example for "Creating jobs in a project"
+### Rewrite steps for clarity and add example for "Creating jobs in a project"
 
 Scheduled and hosted a call with STSM and 2 design focals to learn about the Scheduling jobs UI and address concerns over a complex feature and the correlating lack of clarity in the documentation. As a result, I updated the “Creating and managing jobs” topic with clear language, accurate steps, and an additional example to help our users understand a complex feature.
 
