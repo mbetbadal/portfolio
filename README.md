@@ -7,24 +7,33 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ## 🛠 Tools & Skills  
 - **Authoring:** Markdown, DITA, Oxygen XML, GitHub
-- **Platforms:** Cloud Pak for Data, Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai  
-- **Specialties:** Accessibility, user onboarding
+- **Products/Services I've written for:** Cloud Pak for Data (, Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai  
+- **Specialties:** Accessibility, user onboarding, researching, interviewing, presenting, UX/UI editing and writing
 
 ---
 
 ## 📄 Selected Writing Samples
 
-### 1. IBM Cloud Pak for Data 
-**Type:** Installation, release notes, known issues, and troubleshooting | **Tools:** Markdown, GitHub, Oxygen XML  
+### Onboarded new service to Cloud Pak for Data as a Service - Data Replication
+
+Review the entire doc set of [Data Replication](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.6.x?topic=data-replicating).
+
+**Highlights:**  
+- Established info archictecture, wrote all new topics
+- Aligned with developers, PM, and product design
+- Focused on reducing learning curve for new users
+
+### IBM Cloud Pak for Data releases for multiple products
+Installation, release notes, known issues, and troubleshooting
 
 **Highlights:**  
 - Collaborated with engineers and PMs
 - Sole writer for multiple products
 - Used GitHub issues to track documentation progress on new features, fixes, and known issues
 - Improved legacy docs for accessibility and usability
-- Met a mix of quarterly and monthly releases
+- Met a mix of quarterly and monthly release deadlines
 
-Initial release of Data Replicatio on Cloud Pak for Data 4.6.0
+Initial release of Data Replication on Cloud Pak for Data 4.6.0
 
 <img width="635" alt="DR 4 6 0 Release" src="https://github.com/user-attachments/assets/4f8149ab-6448-456e-9dfe-0dbd2a61488b" />
 
@@ -53,7 +62,7 @@ Known issues for various services and features on Cloud Pak for Data
 <img width="621" alt="Known issues for projects" src="https://github.com/user-attachments/assets/c7f18b62-d966-4bfe-9ed8-c041d81d5f2f" />
 
 
-Known issues for various services and features on Cloud Pak for Data 
+Limitations for various services and features on Cloud Pak for Data 
 
 <img width="660" alt="Limitations projects" src="https://github.com/user-attachments/assets/58930f51-9237-4596-b563-17b2b0ad2e44" />
 
@@ -62,27 +71,10 @@ Known issues for various services and features on Cloud Pak for Data
 <img width="653" alt="Limit visualizations" src="https://github.com/user-attachments/assets/b4d57f53-8444-4370-b205-965a43736b4c" />
 
 
-
-
 ---
 
-### 2. Onboarding new service - Data Replication
-**Type:** New service docs | **Tools:** Markdown, GitHub, Oxygen XML
-
-**Highlights:**  
-- info archictecture
-- Aligned with developers, PM, and product design
-- Focused on reducing learning curve for new users
-
----
-
-### 3. Improvements - Git integration documentation  
-**Type:** End-user | **Tools:** Markdown, GitHub
-Reorganized and rewrote Git integration documentation to improve clarity, usability, and  comprehensiveness of Default and Deprecated Git integration features. 
-📎 [Screenshots with Annotations](#)
-
-**Highlights:**  
-- Supported assets and services that need to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus on clarifying why the user would want to create: an empty project,  default or deprecated git project.
+### 3. Improvements to Git integration documentation  
+Reorganized and rewrote Git integration documentation to improve clarity, usability, and  comprehensiveness of Default and Deprecated Git integration features. Supported assets and services that need to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus on clarifying why the user would want to create: an empty project,  default or deprecated git project.
 
 
 Restructure info architecture to split information into two topics 
@@ -107,23 +99,34 @@ Create troubleshooting topic to replace info found in usage topic (linked to fro
 
 ---
 
-### 4. New feature - Cloud Pak for Data as a Service/watsonx.ai
+### 4. Examples of new features on Cloud Pak for Data as a Service/watsonx.ai
+
+**Marking projects as sensitive topic**
 
 <img width="621" alt="Marking Project as Sensitive" src="https://github.com/user-attachments/assets/5e96e078-12a7-446c-93c8-9a6534650508" />
 
+
+**New projects UI what's new statement**
+
+Cloud Pak for Data as a Service projects UI was redesigned to simplify the user experience and increase productivity. Although there were no new functionalities released, the entire CPDaaS documentation set had to be updated to reflect the new UI changes and user experience. 
+
+<img width="779" alt="Projects UI new" src="https://github.com/user-attachments/assets/37f68253-7495-4cae-9f83-26ad9277ab42" />
+
+
+
 ---
 
-### 5. Rewrite steps for clarity - Creating jobs in a project
+### 5. Rewrite steps for clarity and add example for "Creating jobs in a project"
 
-**Highlights:**  
-- Scheduled and hosted a call with STSM and 2 design focals to learn about the Scheduling jobs UI and address concerns over a complex feature and the correlating lack of clarity in the documentation.
-- As a result, I updated the “Creating and managing jobs” topic with clear language, accurate steps, and an additional example to help our users understand a complex feature.
+Scheduled and hosted a call with STSM and 2 design focals to learn about the Scheduling jobs UI and address concerns over a complex feature and the correlating lack of clarity in the documentation. As a result, I updated the “Creating and managing jobs” topic with clear language, accurate steps, and an additional example to help our users understand a complex feature.
 
 
 Before
+
 <img width="810" alt="jobs before" src="https://github.com/user-attachments/assets/379518c6-d1f1-4c31-baa9-7f192347fb0f" />
 
 After
+
 <img width="608" alt="jobs after" src="https://github.com/user-attachments/assets/9ea5b59b-502e-46c4-a1ec-0b56ad8887ea" />
 
 
