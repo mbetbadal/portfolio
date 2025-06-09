@@ -7,8 +7,8 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ## 📄 Selected Writing Samples
 
-### 1. Installation, release notes, known issues, and troubleshooting - IBM Cloud Pak for Data 
-**Type:**  | **Tools:** Markdown, GitHub, Oxygen XML  
+### 1. IBM Cloud Pak for Data 
+**Type:** Installation, release notes, known issues, and troubleshooting | **Tools:** Markdown, GitHub, Oxygen XML  
 
 **Highlights:**  
 - Collaborated with engineers and PMs
