@@ -7,12 +7,15 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ## 📄 Selected Writing Samples
 
-### 1. IBM Cloud Pak for Data 
+### 1. Installation, release notes, known issues, and troubleshooting - IBM Cloud Pak for Data 
 **Type:**  | **Tools:** Markdown, GitHub, Oxygen XML  
 
 **Highlights:**  
-- Collaborated with engineers and PMs  
+- Collaborated with engineers and PMs
+- Sole writer for multiple products
+- Used GitHub issues to track documentation progress on new features, fixes, and known issues
 - Improved legacy docs for accessibility and usability
+- Met a mix of quarterly and monthly releases
 
 ---
 
