@@ -15,6 +15,7 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 ## 📄 Selected Writing Samples
 
 - [Onboard new service Data Replication](#onboard)
+- [Installation, release notes, known issues, and troubleshooting](#CPD)
 - [Improvements to Git integration documentation](#git)
 - [Examples of new features](#new-features)
 - [Rewrite steps for clarity](#jobs)
@@ -29,8 +30,9 @@ Review the entire doc set of [Data Replication](https://www.ibm.com/docs/en/clou
 - Aligned with developers, PM, and product design
 - Focused on reducing learning curve for new users
 
-### IBM Cloud Pak for Data releases for multiple products
-Installation, release notes, known issues, and troubleshooting.
+### IBM Cloud Pak for Data releases for multiple products<a name="CPD"></a>
+
+IBM Cloud Pak for Data releases for multiple products
 
 **Highlights:**  
 - Collaborated with engineers and PMs
