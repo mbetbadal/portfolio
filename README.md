@@ -1,3 +1,5 @@
+#Michelle's technical writing portfolio
+
 ## 👋 About Me  
 I’m a technical writer and content designer with over five years of experience documenting complex cloud and AI technologies at IBM. I specialize in simplifying enterprise software for a wide range of users, from system administrators to business users.
 
