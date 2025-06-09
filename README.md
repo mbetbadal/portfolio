@@ -24,6 +24,9 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 - Improved legacy docs for accessibility and usability
 - Met a mix of quarterly and monthly releases
 
+<img width="655" alt="CPD Data Replication 4 7 0" src="https://github.com/user-attachments/assets/39946650-f7ff-4250-8554-904b46c9d29a" />
+
+
 ---
 
 ### 2. Onboarding new service - Data Replication
