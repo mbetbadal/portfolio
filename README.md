@@ -143,7 +143,7 @@ Cloud Pak for Data as a Service projects UI was redesigned to simplify the user 
 
 ### New documentation for Configuring an Analytics Engine powered by Apache Spark instance for watsonx.data<a name="spark"></a>
 
-Review the new documentation I wrote and published for [configuring a Spark instance for watsonx.data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=as-configuring-analytics-engine-powered-by-apache-spark-instance-watsonxdata).
+Review the new documentation I wrote and published for [configuring a Spark instance for watsonx.data on Cloud Pa for Data 4.7.1](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=as-configuring-analytics-engine-powered-by-apache-spark-instance-watsonxdata).
 
 ---
 
