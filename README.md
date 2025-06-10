@@ -77,7 +77,7 @@ IBM Cloud Pak for Data releases for multiple products
 <img width="621" alt="Known issues for projects" src="https://github.com/user-attachments/assets/c7f18b62-d966-4bfe-9ed8-c041d81d5f2f" />
 
 
-**Limitations for various services and features on Cloud Pak for Data **
+**Limitations for various services and features on Cloud Pak for Data**
 
 <img width="660" alt="Limitations projects" src="https://github.com/user-attachments/assets/58930f51-9237-4596-b563-17b2b0ad2e44" />
 
