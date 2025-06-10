@@ -37,7 +37,7 @@ See [watsonx.ai documentation](https://dataplatform.cloud.ibm.com/docs/content/w
 
 - Helped prepare several landing pages for watsonx.ai initial release by replacing service names with conrefs, adding new info, and re-organizing topics in Cloud Pak for Data as a Service, watsonx, and Cloud Pak for Data
 - Organized a new table of contents and updated multiple topics with new and restructured information for the Watson NLP section in watsonx.ai, CPD, and CPDaaS
-- Particpated in watsonx challenge to test abilities and impact of generative AI on work processes
+- Participated in watsonx challenge to test abilities and impact of generative AI on work processes
 - Attended every all-hands call and 4-in-a-box meeting leading up to release
 - Tested new features and practiced using LLMs in staging environment
 
