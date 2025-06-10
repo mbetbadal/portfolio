@@ -156,7 +156,7 @@ Scheduled and hosted a call with STSM and 2 design focals to learn about the Sch
 
 ---
 
-### Restructure and rewrite legacy docs for Executive Engine on Apache Hadoop"<a name="hadoop"></a>
+### Restructure and rewrite legacy docs for Executive Engine on Apache Hadoop<a name="hadoop"></a>
 
 I worked with development to restructure and add new topics for the administration section for Hadoop in CPD 4.8. I applied DQTI principles such as retrievability, organization, completeness, and accuracy to reintroduce the section of information to our users.
 
