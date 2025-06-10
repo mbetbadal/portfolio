@@ -23,6 +23,7 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 - [Installation, release notes, known issues, and troubleshooting](#CPD)
 - [Improvements to Git integration documentation](#git)
 - [Examples of new features](#new-features)
+- [Entirely new section for Spark instance on watsonx.data](#spark)
 - [Rewrite steps for clarity](#jobs)
 - [Overhaul of legacy docs](#hadoop)
 
@@ -138,6 +139,11 @@ Cloud Pak for Data as a Service projects UI was redesigned to simplify the user 
 <img width="779" alt="Projects UI new" src="https://github.com/user-attachments/assets/37f68253-7495-4cae-9f83-26ad9277ab42" />
 
 
+---
+
+### New documentation for Configuring an Analytics Engine powered by Apache Spark instance for watsonx.data<a name="spark"></a>
+
+Review the new documentation I wrote and published for [configuring a Spark instance for watsonx.data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=as-configuring-analytics-engine-powered-by-apache-spark-instance-watsonxdata).
 
 ---
 
