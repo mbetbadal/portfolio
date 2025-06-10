@@ -13,7 +13,7 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 - **Products/Services I've written for:** Cloud Pak for Data (multiple services), Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai, IBM Db2 
 - **Specialties:** Accessibility, user onboarding, researching, interviewing, presenting, UI text, error messages
 
-**Note:** I unfortunately do not have samples of error messages or tooltips I have written and edited on-hand. I can speak to my ability to write and edit UI text.
+**Note:** I unfortunately do not have samples of error messages or tooltips I have written and edited on-hand. I can speak to my ability to write and edit UI text. In the meantime, I will try to get access to these examples!
 
 ---
 
