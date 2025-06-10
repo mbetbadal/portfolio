@@ -42,7 +42,7 @@ See [watsonx.ai documentation](https://dataplatform.cloud.ibm.com/docs/content/w
 
 ---
 
-### Write and edit error messages, descriptions, and tool tips
+### Write and edit error messages, descriptions, and tool tips<a name="ui"></a>
 
 **Highlights:**
 
