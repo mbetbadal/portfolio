@@ -169,6 +169,7 @@ Scheduled and hosted a call with STSM and 2 design focals to learn about the Sch
 - Applied DQTI principles such as retrievability, organization, completeness, and accuracy to reintroduce the section of information to our users
 
 **Before**
+
 This topic lacks cohesiveness as it handles multiple use cases and provides too much information without explaining what the user needs to know. The use will struggle to succeed. The topic is bloated with notes, incomprehensible lists, and possibly outdated information.
 
 <img width="691" alt="Hadoop before" src="https://github.com/user-attachments/assets/f54d13fe-ae54-4093-baa5-7facf29d739f" />
