@@ -19,6 +19,7 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ## 📄 Selected Writing Samples
 
+- [Contribution to watsonx.ai release](#ai)
 - [Onboard new service Data Replication](#onboard)
 - [Installation, release notes, known issues, and troubleshooting](#CPD)
 - [Improvements to Git integration documentation](#git)
@@ -26,6 +27,21 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 - [Entirely new section for Spark instance on watsonx.data](#spark)
 - [Rewrite steps for clarity](#jobs)
 - [Overhaul of legacy docs](#hadoop)
+
+
+### Contribution to watsonx.ai release<a name="ai"></a>
+
+See [watsonx.ai documentation](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx&audience=wdp).
+
+**Highlights:**
+
+- Helped prepare several landing pages for watsonx.ai initial release by replacing service names with conrefs, adding new info, and re-organizing topics in Cloud Pak for Data as a Service, watsonx, and Cloud Pak for Data
+- Organized a new table of contents and updated multiple topics with new and restructured information for the Watson NLP section in watsonx.ai, CPD, and CPDaaS
+- Particpated in watsonx challenge to test abilities and impact of generative AI on work processes
+- Attended every all-hands call and 4-in-a-box meeting leading up to release
+- Tested new features and practiced using LLMs in staging environment
+
+---
 
 ### Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)<a name="onboard"></a>
 
