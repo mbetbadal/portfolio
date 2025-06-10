@@ -84,9 +84,6 @@ Release notes, bug fixes, known issues, limitations.
 
 <img width="608" alt="Limitations for jobs" src="https://github.com/user-attachments/assets/e9e74059-a5fc-4d57-9e55-4deb49733975" />
 
-<img width="653" alt="Limit visualizations" src="https://github.com/user-attachments/assets/b4d57f53-8444-4370-b205-965a43736b4c" />
-
-
 ---
 
 ### Improvements to Git integration documentation<a name="git"></a>  
