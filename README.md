@@ -94,7 +94,7 @@ Release notes, bug fixes, known issues, limitations.
 **Highlights:**
 
 - Reorganized and rewrote Git integration documentation to improve clarity, usability, and comprehensiveness of Default and Deprecated Git integration features
-- Edited supported assets and services tables as requested by a distinguish engineer to remove incorrect information
+- Edited supported assets and services tables to remove incorrect information, as requested by a distinguish engineer
 - Clarified why the user would want to create an empty project, default, or deprecated git project
 
 
@@ -180,7 +180,8 @@ Review the new documentation I wrote and published for [configuring a Spark inst
 
 **Before**
 
-This topic lacks cohesiveness as it handles multiple use cases and provides too much information without explaining what the user needs to know. The use will struggle to succeed. The topic is bloated with notes, incomprehensible lists, and possibly outdated information.
+- Topics lacked cohesiveness as they handled multiple use cases and provided too much information without explaining what the user needs to know
+- Topics are bloated with notes, incomprehensible lists, and possibly outdated information
 
 <img width="691" alt="Hadoop before" src="https://github.com/user-attachments/assets/f54d13fe-ae54-4093-baa5-7facf29d739f" />
 
