@@ -9,8 +9,11 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 
 ## 🛠 Tools & Skills  
 - **Authoring:** Markdown, DITA, Oxygen XML, GitHub
+- **Editing:** Error messages, tooltips, buttons, user docs, known issues, troubleshooting, what's new entries, info architecture 
 - **Products/Services I've written for:** Cloud Pak for Data (multiple services), Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai  
 - **Specialties:** Accessibility, user onboarding, researching, interviewing, presenting, UX/UI editing and writing
+
+**Note:** I unfortunately do not have samples of error messages or tooltips I have written and edited on-hand. I can speak to my ability to write and edit UI text.
 
 ---
 
@@ -21,6 +24,7 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 - [Improvements to Git integration documentation](#git)
 - [Examples of new features](#new-features)
 - [Rewrite steps for clarity](#jobs)
+- [Overhaul of legacy docs](#hadoop)
 
 ### Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)<a name="onboard"></a>
 
@@ -111,6 +115,17 @@ Reorganized and rewrote Git integration documentation to improve clarity, usabil
 
 ### Examples of new features on Cloud Pak for Data as a Service/watsonx.ai<a name="new-features"></a>
 
+**Folders in Watson Studio (beta)**
+
+Review the new documentation I wrote for this beta release:
+- [Enabling folders (beta)](https://dataplatform.cloud.ibm.com/docs/content/wsj/manage-data/enable-folders.html?context=cpdaas&audience=wdp&locale=en)
+- [Organizing assets with folders (beta)](https://dataplatform.cloud.ibm.com/docs/content/wsj/manage-data/manage-folders.html?context=cpdaas&audience=wdp&locale=en)
+
+**What's new entry**
+
+<img width="700" alt="beta folders" src="https://github.com/user-attachments/assets/e0264a47-ef80-4aae-986d-fe3625421664" />
+
+
 **Marking projects as sensitive topic**
 
 <img width="621" alt="Marking Project as Sensitive" src="https://github.com/user-attachments/assets/5e96e078-12a7-446c-93c8-9a6534650508" />
@@ -138,5 +153,21 @@ Scheduled and hosted a call with STSM and 2 design focals to learn about the Sch
 **After**
 
 <img width="608" alt="jobs after" src="https://github.com/user-attachments/assets/9ea5b59b-502e-46c4-a1ec-0b56ad8887ea" />
+
+---
+
+### Restructure and rewrite legacy docs for Executive Engine on Apache Hadoop"<a name="hadoop"></a>
+
+I worked with development to restructure and add new topics for the administration section for Hadoop in CPD 4.8. I applied DQTI principles such as retrievability, organization, completeness, and accuracy to reintroduce the section of information to our users.
+
+**Before**
+
+<img width="691" alt="Hadoop before" src="https://github.com/user-attachments/assets/f54d13fe-ae54-4093-baa5-7facf29d739f" />
+
+**After**
+
+
+<img width="750" alt="Hadoop after" src="https://github.com/user-attachments/assets/7ed0fc97-e4ed-4567-9ef5-91e97833c69a" />
+
 
 
