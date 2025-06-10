@@ -181,7 +181,7 @@ Review the new documentation I wrote and published for [configuring a Spark inst
 **Before**
 
 - Topics lacked cohesiveness as they handled multiple use cases and provided too much information without explaining what the user needs to know
-- Topics are bloated with notes, incomprehensible lists, and possibly outdated information
+- Topics were bloated with notes, incomprehensible lists, and possibly outdated information
 
 <img width="691" alt="Hadoop before" src="https://github.com/user-attachments/assets/f54d13fe-ae54-4093-baa5-7facf29d739f" />
 
