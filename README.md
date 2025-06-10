@@ -43,6 +43,7 @@ Release notes, bug fixes, known issues, limitations.
 
 **Highlights:**  
 - Collaborated with engineers and PMs
+- Updated installation topics for every release (example of [Installing Watson Studio](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=studio-installing)
 - Sole writer for multiple products
 - Used GitHub issues to track documentation progress on new features, fixes, and known issues
 - Improved legacy docs for accessibility and usability
@@ -89,7 +90,12 @@ Release notes, bug fixes, known issues, limitations.
 ---
 
 ### Improvements to Git integration documentation<a name="git"></a>  
-Reorganized and rewrote Git integration documentation to improve clarity, usability, and comprehensiveness of Default and Deprecated Git integration features. Supported assets and services that needed to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus was on clarifying why the user would want to create an empty project, default, or deprecated git project.
+
+**Highlights:**
+
+- Reorganized and rewrote Git integration documentation to improve clarity, usability, and comprehensiveness of Default and Deprecated Git integration features
+- Edited supported assets and services tables as requested by a distinguish engineer to remove incorrect information
+- Clarified why the user would want to create an empty project, default, or deprecated git project
 
 
 **Restructure info architecture to split information into two topics**
@@ -122,19 +128,21 @@ Review the new documentation I wrote for this beta release:
 - [Enabling folders (beta)](https://dataplatform.cloud.ibm.com/docs/content/wsj/manage-data/enable-folders.html?context=cpdaas&audience=wdp&locale=en)
 - [Organizing assets with folders (beta)](https://dataplatform.cloud.ibm.com/docs/content/wsj/manage-data/manage-folders.html?context=cpdaas&audience=wdp&locale=en)
 
-**What's new entry**
-
-<img width="700" alt="beta folders" src="https://github.com/user-attachments/assets/e0264a47-ef80-4aae-986d-fe3625421664" />
-
 
 **Marking projects as sensitive topic**
+
+- New topic to describe access control over sensitive proejcts
+- Collaborated with development from beta to release
 
 <img width="621" alt="Marking Project as Sensitive" src="https://github.com/user-attachments/assets/5e96e078-12a7-446c-93c8-9a6534650508" />
 
 
 **New projects UI what's new entry**
 
-Cloud Pak for Data as a Service projects UI was redesigned to simplify the user experience and increase productivity. Although there were no new functionalities released, the entire CPDaaS documentation set had to be updated to reflect the new UI changes and user experience. 
+**Highlights:**
+
+- Cloud Pak for Data as a Service projects UI was redesigned to simplify the user experience and increase productivity
+- Although there were no new functionalities released, the entire CPDaaS documentation set had to be updated to reflect the new UI changes and user experience
 
 <img width="779" alt="Projects UI new" src="https://github.com/user-attachments/assets/37f68253-7495-4cae-9f83-26ad9277ab42" />
 
@@ -149,7 +157,9 @@ Review the new documentation I wrote and published for [configuring a Spark inst
 
 ### Rewrite steps for clarity and add example for "Creating jobs in a project"<a name="jobs"></a>
 
-Scheduled and hosted a call with STSM and 2 design focals to learn about the Scheduling jobs UI and address concerns over a complex feature and the correlating lack of clarity in the documentation. As a result, I updated the “Creating and managing jobs” topic with clear language, accurate steps, and an additional example to help our users understand a complex feature.
+**Highlights:**
+- Scheduled a call with STSM and 2 design focals to learn about the Scheduling jobs UI and address concerns over a complex feature and the correlating lack of clarity in the documentation
+- Updated the “Creating and managing jobs” topic with clear language, accurate steps, and an additional example to help our users understand a complex feature
 
 
 **Before**
@@ -180,7 +190,8 @@ This topic lacks cohesiveness as it handles multiple use cases and provides too 
 - Categorize information
 - Remove outdated information
 - Add missing information (as indicated in original dev issue)
-- Restructure information: remove bullet points and rename subheadings Add more description to answer why and how the user can use this topic
+- Restructure information: remove bullet points and rename subheadings
+- Add more description to answer why and how the user can use this topic
 - Add tables to display version compatibility and requirements
 
 <img width="750" alt="Hadoop after" src="https://github.com/user-attachments/assets/7ed0fc97-e4ed-4567-9ef5-91e97833c69a" />
