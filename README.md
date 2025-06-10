@@ -8,10 +8,10 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 ---
 
 ## 🛠 Tools & Skills  
-- **Authoring:** Markdown, DITA, Oxygen XML, GitHub
-- **Editing:** Error messages, tooltips, buttons, user docs, known issues, troubleshooting, what's new entries, info architecture 
-- **Products/Services I've written for:** Cloud Pak for Data (multiple services), Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai  
-- **Specialties:** Accessibility, user onboarding, researching, interviewing, presenting, UX/UI editing and writing
+- **Authoring tools:** Markdown, DITA, Oxygen XML, GitHub
+- **Writing experience:** Error messages, tooltips, buttons, release notes, user docs, known issues, troubleshooting, what's new entries, info architecture, FAQs
+- **Products/Services I've written for:** Cloud Pak for Data (multiple services), Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai, IBM Db2 
+- **Specialties:** Accessibility, user onboarding, researching, interviewing, presenting, UI text, error messages
 
 **Note:** I unfortunately do not have samples of error messages or tooltips I have written and edited on-hand. I can speak to my ability to write and edit UI text.
 
