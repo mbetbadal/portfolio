@@ -35,7 +35,7 @@ See [watsonx.ai documentation](https://dataplatform.cloud.ibm.com/docs/content/w
 
 **Highlights:**
 
-- Helped prepare several landing pages for watsonx.ai initial release by replacing service names with conrefs, adding new info, and re-organizing topics in Cloud Pak for Data as a Service, watsonx, and Cloud Pak for Data
+- Prepared several landing pages for watsonx.ai initial release by replacing service names with conrefs, adding new info, and re-organizing topics in Cloud Pak for Data as a Service, watsonx, and Cloud Pak for Data
 - Organized a new table of contents and updated multiple topics with new and restructured information for the Watson NLP section in watsonx.ai, CPD, and CPDaaS
 - Participated in watsonx challenge to test abilities and impact of generative AI on work processes (queries, applications, scripts)
 - Attended every all-hands call and 4-in-a-box meeting leading up to release
@@ -45,7 +45,7 @@ See [watsonx.ai documentation](https://dataplatform.cloud.ibm.com/docs/content/w
 
 ### Onboarded new service to Cloud Pak for Data 4.6.0 (Data Replication)<a name="onboard"></a>
 
-Review the entire doc set of [Data Replication](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.6.x?topic=data-replicating).
+See the entire doc set of [Data Replication](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.6.x?topic=data-replicating).
 
 **Highlights:**  
 - Established info archictecture, wrote all new topics
@@ -137,7 +137,7 @@ Release notes, bug fixes, known issues, limitations.
 
 **Folders in Watson Studio (beta)**
 
-Review the new documentation I wrote for this beta release:
+See the new documentation I wrote for this beta release:
 - [Enabling folders (beta)](https://dataplatform.cloud.ibm.com/docs/content/wsj/manage-data/enable-folders.html?context=cpdaas&audience=wdp&locale=en)
 - [Organizing assets with folders (beta)](https://dataplatform.cloud.ibm.com/docs/content/wsj/manage-data/manage-folders.html?context=cpdaas&audience=wdp&locale=en)
 
@@ -164,7 +164,7 @@ Review the new documentation I wrote for this beta release:
 
 ### New documentation for Configuring an Analytics Engine powered by Apache Spark instance for watsonx.data<a name="spark"></a>
 
-Review the new documentation I wrote and published for [configuring a Spark instance for watsonx.data on Cloud Pa for Data 4.7.1](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=as-configuring-analytics-engine-powered-by-apache-spark-instance-watsonxdata).
+See the new documentation I wrote and published for [configuring a Spark instance for watsonx.data on Cloud Pa for Data 4.7.1](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=as-configuring-analytics-engine-powered-by-apache-spark-instance-watsonxdata).
 
 ---
 
