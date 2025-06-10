@@ -131,7 +131,7 @@ Review the new documentation I wrote for this beta release:
 <img width="621" alt="Marking Project as Sensitive" src="https://github.com/user-attachments/assets/5e96e078-12a7-446c-93c8-9a6534650508" />
 
 
-**New projects UI what's new statement**
+**New projects UI what's new entry**
 
 Cloud Pak for Data as a Service projects UI was redesigned to simplify the user experience and increase productivity. Although there were no new functionalities released, the entire CPDaaS documentation set had to be updated to reflect the new UI changes and user experience. 
 
