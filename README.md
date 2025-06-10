@@ -13,13 +13,12 @@ I’m passionate about education, accessibility, and creating clear, empowering 
 - **Products/Services I've written for:** Cloud Pak for Data (multiple services), Cloud Pak for Data as a Service, IBM Cloud, watsonx.ai, IBM Db2 
 - **Specialties:** Accessibility, user onboarding, researching, interviewing, presenting, UI text, error messages
 
-**Note:** I unfortunately do not have samples of error messages or tooltips I have written and edited on-hand. I can speak to my ability to write and edit UI text. In the meantime, I will try to get access to these examples!
-
 ---
 
 ## 📄 Selected Writing Samples
 
 - [Contribution to watsonx.ai release](#ai)
+- [UI text](#ui)
 - [Onboard new service Data Replication](#onboard)
 - [Installation, release notes, known issues, and troubleshooting](#CPD)
 - [Improvements to Git integration documentation](#git)
@@ -40,6 +39,17 @@ See [watsonx.ai documentation](https://dataplatform.cloud.ibm.com/docs/content/w
 - Participated in watsonx challenge to test abilities and impact of generative AI on work processes (queries, applications, scripts)
 - Attended every all-hands call and 4-in-a-box meeting leading up to release
 - Tested new features and practiced using LLMs in staging environment
+
+---
+
+### Write and edit error messages, descriptions, and tool tips
+
+**Highlights:**
+
+- Edited over a dozen error messages for Analytics Engine powered by Apache Spark
+- Edited and rewrote multiple flows to improve the clarity and conciseness of the tool tips and descriptions for Watson Studio folders feature
+
+
 
 ---
 
