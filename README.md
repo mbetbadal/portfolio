@@ -164,14 +164,23 @@ Scheduled and hosted a call with STSM and 2 design focals to learn about the Sch
 
 ### Restructure and rewrite legacy docs for Executive Engine on Apache Hadoop<a name="hadoop"></a>
 
-I worked with development to restructure and add new topics for the administration section for Hadoop in CPD 4.8. I applied DQTI principles such as retrievability, organization, completeness, and accuracy to reintroduce the section of information to our users.
+**Highlights:**
+- Worked with development to restructure and add new topics for the administration section for Hadoop in next major release of Cloud Pak for Data
+- Applied DQTI principles such as retrievability, organization, completeness, and accuracy to reintroduce the section of information to our users
 
 **Before**
+This topic lacks cohesiveness as it handles multiple use cases and provides too much information without explaining what the user needs to know. The use will struggle to succeed. The topic is bloated with notes, incomprehensible lists, and possibly outdated information.
 
 <img width="691" alt="Hadoop before" src="https://github.com/user-attachments/assets/f54d13fe-ae54-4093-baa5-7facf29d739f" />
 
 **After**
 
+- Review and remove notes
+- Categorize information
+- Remove outdated information
+- Add missing information (as indicated in original dev issue)
+- Restructure information: remove bullet points and rename subheadings Add more description to answer why and how the user can use this topic
+- Add tables to display version compatibility and requirements
 
 <img width="750" alt="Hadoop after" src="https://github.com/user-attachments/assets/7ed0fc97-e4ed-4567-9ef5-91e97833c69a" />
 
