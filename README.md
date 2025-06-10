@@ -43,7 +43,7 @@ Release notes, bug fixes, known issues, limitations.
 
 **Highlights:**  
 - Collaborated with engineers and PMs
-- Updated installation topics for every release (example of [Installing Watson Studio](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=studio-installing)
+- Updated installation topics for every release (example of [Installing Watson Studio](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.8.x?topic=studio-installing))
 - Sole writer for multiple products
 - Used GitHub issues to track documentation progress on new features, fixes, and known issues
 - Improved legacy docs for accessibility and usability
