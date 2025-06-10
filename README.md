@@ -42,12 +42,12 @@ See [watsonx.ai documentation](https://dataplatform.cloud.ibm.com/docs/content/w
 
 ---
 
-### Write and edit error messages, descriptions, and tool tips<a name="ui"></a>
+### UI text: Write and edit error messages, descriptions, and tool tips<a name="ui"></a>
 
 **Highlights:**
 
 - Edited over a dozen error messages for Analytics Engine powered by Apache Spark
-- Edited and rewrote multiple flows to improve the clarity and conciseness of the tool tips and descriptions for Watson Studio folders feature
+- Edited and rewrote multiple flows on Figma to improve the clarity and conciseness of the tool tips and descriptions for Watson Studio folders feature
 
 
 
