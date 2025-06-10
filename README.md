@@ -39,7 +39,7 @@ Review the entire doc set of [Data Replication](https://www.ibm.com/docs/en/clou
 
 ### IBM Cloud Pak for Data releases for multiple products<a name="CPD"></a>
 
-IBM Cloud Pak for Data releases for multiple products
+Release notes, bug fixes, known issues, limitations.
 
 **Highlights:**  
 - Collaborated with engineers and PMs
@@ -89,7 +89,7 @@ IBM Cloud Pak for Data releases for multiple products
 ---
 
 ### Improvements to Git integration documentation<a name="git"></a>  
-Reorganized and rewrote Git integration documentation to improve clarity, usability, and  comprehensiveness of Default and Deprecated Git integration features. Supported assets and services that need to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus on clarifying why the user would want to create: an empty project,  default or deprecated git project.
+Reorganized and rewrote Git integration documentation to improve clarity, usability, and comprehensiveness of Default and Deprecated Git integration features. Supported assets and services that needed to be documented more clearly in the Git integration topics, as requested by a distinguish engineer. Focus was on clarifying why the user would want to create an empty project, default, or deprecated git project.
 
 
 **Restructure info architecture to split information into two topics**
